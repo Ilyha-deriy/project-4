@@ -14,4 +14,6 @@ counter();
 counter();
 counter(5);
 counter();
+
+// text
 ?>
